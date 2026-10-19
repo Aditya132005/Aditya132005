@@ -12,7 +12,6 @@
 
 <a href="https://joinhustle.in"><img src="https://img.shields.io/badge/HUSTLE-joinhustle.in-00ff9c?style=for-the-badge&labelColor=0d1117" alt="HUSTLE"/></a>
 <img src="https://img.shields.io/badge/B.Tech_CSE-Bennett_'27-00e5ff?style=for-the-badge&labelColor=0d1117" alt="B.Tech CSE, Bennett University, 2027"/>
-<img src="https://komarev.com/ghpvc/?username=Aditya132005&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" alt="profile views"/>
 
 </div>
 
