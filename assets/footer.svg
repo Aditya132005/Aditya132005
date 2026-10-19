@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="104" viewBox="0 0 860 104" font-family="'JetBrains Mono','Fira Code','Cascadia Code','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" role="img" aria-label="logout: connection to Aditya132005 closed. thanks for visiting.">
+<title>logout: connection to Aditya132005 closed. thanks for visiting.</title>
+<defs>
+<linearGradient id="f-stroke" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#00ff9c" stop-opacity=".9"/><stop offset=".5" stop-color="#00e5ff" stop-opacity=".5"/><stop offset="1" stop-color="#00ff9c" stop-opacity=".2"/></linearGradient>
+<pattern id="f-scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.2" fill="#ffffff" opacity=".035"/></pattern>
+<linearGradient id="f-bar" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#00ff9c" stop-opacity="0"/><stop offset=".5" stop-color="#00ff9c" stop-opacity=".06"/><stop offset="1" stop-color="#00ff9c" stop-opacity="0"/></linearGradient>
+<radialGradient id="f-vig" cx=".5" cy=".55" r=".75">
+  <stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".45"/></radialGradient>
+<clipPath id="f-win"><rect x="1" y="39" width="858" height="64" rx="14"/></clipPath>
+<filter id="f-glow" x="-10%" y="-40%" width="120%" height="180%">
+  <feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="f-soft" x="-10%" y="-60%" width="120%" height="220%">
+  <feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="f-fill" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00ff9c"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+<clipPath id="f-clip1"><rect x="181.0" y="25" width="0" height="25"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0" begin="0.6s" dur="0.35s" calcMode="discrete" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="858" height="102" rx="14" fill="#0d1117"/>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.2s" fill="freeze"/><text x="28.0" y="42" fill="#00ff9c" font-size="15" font-weight="700" textLength="54.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">aditya</text><text x="82.0" y="42" fill="#8b949e" font-size="15" textLength="9.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">@</text><text x="91.0" y="42" fill="#00e5ff" font-size="15" font-weight="700" textLength="54.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">hustle</text><text x="145.0" y="42" fill="#8b949e" font-size="15" textLength="9.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text><text x="154.0" y="42" fill="#e6edf3" font-size="15" textLength="9.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">~</text><text x="163.0" y="42" fill="#8b949e" font-size="15" textLength="18.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text></g>
+<g clip-path="url(#f-clip1)"><text x="181.0" y="42" fill="#e6edf3" font-size="15" textLength="36.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">exit</text></g>
+<rect x="181.0" y="29" width="9.0" height="17" fill="#00ff9c" opacity="0"><set attributeName="opacity" to="1" begin="0.6s" fill="freeze"/><animate attributeName="x" values="181.0;190.0;199.0;208.0;217.0" begin="0.6s" dur="0.35s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="1.1s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.3s" fill="freeze"/><text x="28.0" y="74" fill="#8b949e" font-size="15" textLength="54.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">logout</text><text x="82.0" y="74" fill="#484f58" font-size="15" textLength="54.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  //  </text><text x="136.0" y="74" fill="#8b949e" font-size="15" textLength="126.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">connection to </text><text x="262.0" y="74" fill="#00ff9c" font-size="15" font-weight="700" textLength="108.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Aditya132005</text><text x="370.0" y="74" fill="#8b949e" font-size="15" textLength="81.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> closed. </text><text x="451.0" y="74" fill="#e6edf3" font-size="15" textLength="180.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">thanks for visiting.</text></g>
+<rect x="631.0" y="61" width="9.0" height="17" fill="#00ff9c" opacity="0"><set attributeName="opacity" to="1" begin="1.4s" fill="freeze"/><animate attributeName="x" values="631.0" begin="1.4s" dur="0.1s" calcMode="discrete" fill="freeze"/><animate attributeName="opacity" values="1;0" begin="1.5s" dur="1.05s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="858" height="102" rx="14" fill="url(#f-scan)"/>
+<rect x="1" y="1" width="858" height="102" rx="14" fill="none" stroke="url(#f-stroke)" stroke-width="1.5"/>
+</svg>
