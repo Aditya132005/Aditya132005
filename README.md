@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,ts,py,html,css,vercel,git,github,githubactions&perline=13" alt="Node.js, Express, MongoDB, React, JavaScript, TypeScript, Python, HTML, CSS, Vercel, Git, GitHub, GitHub Actions"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,nodejs,express,mongodb,react,js,ts,py,html,css,vercel,git,github,githubactions&perline=14" alt="Kotlin, Node.js, Express, MongoDB, React, JavaScript, TypeScript, Python, HTML, CSS, Vercel, Git, GitHub, GitHub Actions"/>
   </a>
 </p>
 
@@ -33,13 +33,14 @@
 USER     PROCESS                STATUS     WHAT
 aditya   hustle                 running    brands x short-form creators, paid on CPM
 aditya   voicedesk              running    B.Tech capstone project
-aditya   social-discovery-app   queued     college events app: campus feed + public explore
+aditya   social-discovery-app   building   native Android app, Kotlin + Jetpack Compose, 77 tests passing
 ```
 
 ## `$ ls ~/projects`
 
 | repo | what it is | lang |
 | :-- | :-- | :-- |
+| [**plus1-app**](https://github.com/Aditya132005/plus1-app) | college social-discovery Android app — campus rooms, plans, events, clubs; Kotlin Multiplatform shared module, 10 feature modules, 77 passing tests | Kotlin |
 | [**NetraKiran**](https://github.com/Aditya132005/NetraKiran) | website for an optical shop, built and maintained for a real client | JavaScript |
 | [**Netra-Gem**](https://github.com/Aditya132005/Netra-Gem) | optical shop web front-end | HTML |
 | [**Retail-revenue-analytics-**](https://github.com/Aditya132005/Retail-revenue-analytics-) | retail revenue analytics | Python |
